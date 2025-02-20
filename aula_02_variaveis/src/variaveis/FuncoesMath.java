@@ -1,5 +1,4 @@
-package variaveis;
-
+package variaveis;//Pacote onde se encontra cada este código
 public class FuncoesMath {
 
 	public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package variaveis;
-
-
+package variaveis;//Biblioteca para utilizar o Scanner
 public class TipoDados {
 
 	public static void main(String[] args) {
